@@ -1,0 +1,14 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables
+ * Strings
+ * Funciones (argumentos, `return`)
+ * Declaraciones `if`
+
+ variables: son datos a los que podemos asignar un valor, el cual se almacena en memoria para su posterioro uso
+ strings: es un tipo de dato el cual se caracteriza por ser una cadena de caracteres de tipo texto 
+ funciones: es un bloque de codigo el cual vamos a reutilizar el cual cumple una linea de comandos cuando la invocamos, las funcones Pueden
+ tener argumentos, los cuales sirven para indicar a la funcion como va a funcionar, el return es una declaracion que cumple como objetivo retornar el
+ resultado de la funcion.
+ declaraciones if: es un tipo de declaracion la cual cumple un objetivo condiconal, es decir  un si o un no, por tanto en el caso de if es si y unicamnete si
+ se cumple la condicion escrita se ejecutara el pedazo de codigo que alvergue dentro de ella.
