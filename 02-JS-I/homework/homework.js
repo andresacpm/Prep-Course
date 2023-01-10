@@ -78,6 +78,7 @@ function tienenMismaLongitud(str1, str2) {
   }
   else{
     return false;
+
   }
 }
 
@@ -89,7 +90,7 @@ function menosQueNoventa(num) {
     return true;
   }
   else{
-    returnfalse
+    return false;
   }
   
 }
@@ -144,7 +145,7 @@ function elevarAlCuadrado(num) {
   // Devuelve el valor de "num" elevado al cuadrado
   // ojo: No es raiz cuadrada!
   // Tu código:
-  return Math.pow(num,2)
+  return Math.pow(num,2);
   
 }
 
@@ -278,7 +279,7 @@ function esVocal(letra){
     return "Es vocal";
   }
   else {
-    return "Dato incorrecto"
+    return "Dato incorrecto";
   }
 }
 
