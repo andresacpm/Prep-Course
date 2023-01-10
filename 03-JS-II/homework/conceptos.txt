@@ -1,0 +1,11 @@
+ `for` es un bucle que sirve para hacer tareas repetitivas al cual se le pasan parametros para controlar el numero de veces que necesitemos que se ejecute 
+
+* `&&` es un operador logico que hace referencia a un  (Y), se maneja como operador de logica buleana; es decir arroja un verdadero o flaso apartir de dos operando
+y da como resultado un buleano, para este caso en especifico para que la condicion sea verdadera los los operandos deben cumplir o ser verdaderos de lo contrario 
+dara como resultado falso
+
+ `||`, es un operador logico que hace referencia aun (O), se maneja como operador de logica buleana; es decir arroja un verdadero o flaso apartir de dos operando
+y da como resultado un buleano, para este caso en especifico para que la condicion sea verdadera uno de los  operandos deben cumplir o ser verdaderos, para que su resultado
+sea falso ambas condiciones deben ser falsas
+
+ `!` es utilizado como negacion, antepuesto a un tipo de dato 
