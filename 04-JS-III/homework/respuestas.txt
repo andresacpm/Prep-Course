@@ -1,0 +1,2 @@
+ Arrays : se costitullen caomo objetos similares a una lista, lo cuales pueden ser usados para efectuar diferentes operaciones, los array pueden contener todo tipo de datos 
+ los cuales pueden ser añadidos sacados modificados y usados usandos.
